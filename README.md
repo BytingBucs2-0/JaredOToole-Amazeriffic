@@ -1,2 +1,1 @@
-# JaredOToole-Amazerific
-Class project
+# JaredOToole-Amazeriffic
