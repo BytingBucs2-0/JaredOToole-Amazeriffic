@@ -1,0 +1,130 @@
+
+/* Body & General styles */
+body {
+    background: #f9e933;
+}
+
+header, main, footer {
+    min-width: 855px;
+}
+
+header .container, main .container, footer .container {
+    max-width: 855px;
+    margin: auto;
+}
+
+
+/* Font styles */
+body {
+    font-family: "Droid Sans";
+    font-size: 100%;
+}
+h1 h2 h3 h4 {
+    font-family: "Ubuntu";
+}
+
+h1 {
+    font-size: 350%;
+}
+
+h2 {
+    font-size: 250%;
+}
+
+h3 {
+    font-size: 150%;
+}
+
+h5 {
+    font-size: 150%;
+}
+
+a {
+    font-size: 110%;
+}
+
+
+/* Hyper-link styles */
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* Header styles */
+header {
+    padding-top: 25px;
+    background: white;
+    overflow: auto;
+    padding-bottom: 100px;
+}
+
+header h1 {
+    float: left;
+    width: 570px;
+}
+
+header nav {
+    float: right;
+    width: 285px;
+}
+
+
+/* Main styles */
+main {
+    background: white;
+    overflow: auto;
+}
+
+main .content {
+    float: left;
+    width: 570px;
+}
+
+main h2, h3 {
+    padding-bottom: 10px;
+}
+
+main p {
+    padding-bottom: 50px;
+}
+
+main img {
+    float: right;
+}
+
+
+/* Footer styles */
+footer {
+    overflow: auto;
+}
+
+footer .contact {
+    float: left;
+    width: 570px;
+}
+
+footer .sitemap {
+    float: right;
+    width: 285px;
+}
+
+footer .sitemaplist ul.left {
+    float: left;
+}
+
+footer .sitemaplist ul.right {
+    float: right;
+}
+
+
+
+
+
+
+
+
